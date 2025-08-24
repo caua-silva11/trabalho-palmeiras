@@ -64,10 +64,10 @@ section h2 {
 }
 
 .jogador {
-  background: #ffffff;
-  padding: 8px;
+  background: #dfffe3;
+  padding: 6px;
   margin-bottom: 10px;
-  border: 1px solid #ffffff;
+  border: 1px solid #d3f7d2;
 }
 
 .destaque {
